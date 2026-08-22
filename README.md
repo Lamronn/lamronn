@@ -1,26 +1,32 @@
-<h1 align="center">Hi, I'm Rohit </h1>
+<div align="center">
 
-<p align="center">
-AI Developer • Full-Stack Web Developer • Founder of WebGo
-</p>
+<img src="./profile.png" width="150" height="150" style="border-radius: 50%;" alt="Rohit"/>
 
-<p align="center">
+# Hi, I'm Rohit
+
+**AI Developer • Full-Stack Web Developer • Founder of WebGo**
+
 Building AI-powered applications, modern web solutions, and automation systems.
-</p>
+
+</div>
 
 ---
 
 ### About Me
 
-- BCA (AI & ML) Student
-- Founder of **WebGo**
-- Currently exploring AI, Machine Learning, Cloud Computing, and Full-Stack Development.
+- 🎓 BCA (AI & ML) Student
+- 🚀 Founder of WebGo
+- 🔭 Currently exploring AI, Machine Learning, Cloud Computing, and Full-Stack Development
+
+---
 
 ### Technologies
 
 `Python` `JavaScript` `C` `HTML` `CSS` `React` `Node.js` `Flask` `Django` `Git` `Docker`
 
+---
+
 ### Connect
 
-- rohitlamani2017@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rohit-lamani/
+- 📧 [rohitlamani2017@gmail.com](mailto:rohitlamani2017@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/rohit-lamani/](https://www.linkedin.com/in/rohit-lamani/)
